@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Kan Seminars Beyond MIT
 uid: 0a06dded-81cd-9f78-9117-ddcf5a0dfeb8
 ---

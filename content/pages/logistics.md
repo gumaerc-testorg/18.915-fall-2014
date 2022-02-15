@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Logistics '
 uid: 9d92aa27-87e4-b9bb-4548-23a87d5108cd
 ---

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Life & Teaching of Daniel Kan
 uid: e410ee8b-8700-9b71-186a-43313ae400a9
 ---

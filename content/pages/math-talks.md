@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Math Talks
 uid: ef5131cf-b17c-8b4d-229a-f8c08f7b000d
 ---

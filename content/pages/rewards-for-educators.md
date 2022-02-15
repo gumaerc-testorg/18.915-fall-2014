@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Rewards for Educators
 uid: 52b3c476-57a9-e63d-97e9-01bd861cf4f3
 ---

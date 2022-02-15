@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Practice Talks
 uid: fc96e482-7599-f476-6eb9-00051529f573
 ---

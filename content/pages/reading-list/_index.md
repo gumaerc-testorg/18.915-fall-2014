@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Reading List
 uid: 81414d90-455e-4895-8c60-4619d3435206
 ---

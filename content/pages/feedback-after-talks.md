@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Feedback after Talks
 uid: 899f2197-c7ea-c802-0575-c9260bd4088f
 ---

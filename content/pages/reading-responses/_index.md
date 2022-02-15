@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Reading Responses
 uid: 674cd4bf-8f3b-2929-b29c-0e8c85131638
 ---
@@ -17,7 +19,7 @@ _Below, Professor Haynes Miller and his student, Isabel Vogt, share their first 
 
 ### 4 Sep
 
-_Response to:_ [Steenrod Operations (PDF - 1.7MB)](http://ocw2.mit.edu/courses/mathematics/18-915-graduate-topology-seminar-kan-seminar-fall-2014/math-talks/MIT18_915F14_Steenrod.pdf)
+_Response to:_ [Steenrod Operations (PDF - 1.7MB)]({{< baseurl >}}/resources/mit18_915f14_steenrod)
 
 Dear Professor Miller,
 
