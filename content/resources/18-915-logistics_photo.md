@@ -13,6 +13,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Logistics '
 parent_type: CourseSection
+parent_uid: 9d92aa27-87e4-b9bb-4548-23a87d5108cd
 resourcetype: Image
 title: 18.915-Logistics_Photo.jpg
 uid: 02a36811-69e1-463d-96ae-a47a480fbf11

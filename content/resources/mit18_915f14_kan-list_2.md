@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Reading List
 parent_type: CourseSection
+parent_uid: 81414d90-455e-4895-8c60-4619d3435206
 resourcetype: Document
 title: Kan Reading List
 uid: bdc05947-56be-6531-a494-eb00f5375d8f

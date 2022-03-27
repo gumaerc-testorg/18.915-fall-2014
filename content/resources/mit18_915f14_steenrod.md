@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Math Talks
 parent_type: CourseSection
+parent_uid: ef5131cf-b17c-8b4d-229a-f8c08f7b000d
 resourcetype: Document
 title: Notes on Steenrod Operations
 uid: e7fadd2e-74e9-906c-812c-22b196f54bf6

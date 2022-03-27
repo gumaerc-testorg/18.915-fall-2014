@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Introduction
 parent_type: CourseSection
+parent_uid: c25f4b55-e75d-e013-5f68-2df03191c17b
 resourcetype: Image
 title: 18-915-Intro_Photo.jpg
 uid: cbb55e23-b699-0575-ca0d-a647414815fb

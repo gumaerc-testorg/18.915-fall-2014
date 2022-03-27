@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Life & Teaching of Daniel Kan
 parent_type: CourseSection
+parent_uid: e410ee8b-8700-9b71-186a-43313ae400a9
 resourcetype: Image
 title: 18.915-Kan_Photo.jpg
 uid: f6c8390a-6e8a-b22c-46dd-11186860ecbe

@@ -14,6 +14,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Rewards for Educators
 parent_type: CourseSection
+parent_uid: 52b3c476-57a9-e63d-97e9-01bd861cf4f3
 resourcetype: Image
 title: 18.915-Rewards_Photo.jpg
 uid: 4d008006-bbb0-e4e4-164f-e5203d84f7c5
