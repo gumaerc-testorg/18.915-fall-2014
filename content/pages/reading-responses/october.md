@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, the instructor and student share their reading response
+  correspondence for October.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Reading Responses

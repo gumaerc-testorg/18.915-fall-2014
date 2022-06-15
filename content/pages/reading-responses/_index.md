@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, the instructor describes the reading responses students
+  complete for each paper they do not present.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Reading Responses
@@ -19,7 +21,7 @@ _Below, Professor Haynes Miller and his student, Isabel Vogt, share their first 
 
 ### 4 Sep
 
-_Response to:_ [Steenrod Operations (PDF - 1.7MB)]({{< baseurl >}}/resources/mit18_915f14_steenrod)
+_Response to:_ {{% resource_link e7fadd2e-74e9-906c-812c-22b196f54bf6 "Steenrod Operations (PDF - 1.7MB)" %}}
 
 Dear Professor Miller,
 
@@ -70,7 +72,7 @@ SAMPLE CORRESPONDENCE
 September
 {{< tdclose >}}
 {{< tdopen >}}
-[Sample Correspondence]({{< baseurl >}}/pages/reading-responses/september)
+{{% resource_link f099e4bc-dad3-1d7f-c8c6-e204a63f8de1 "Sample Correspondence" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +81,7 @@ September
 October
 {{< tdclose >}}
 {{< tdopen >}}
-[Sample Correspondence]({{< baseurl >}}/pages/reading-responses/october)
+{{% resource_link d0479656-3929-d8a6-3926-9c8f2cfc2dc2 "Sample Correspondence" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +90,7 @@ October
 November
 {{< tdclose >}}
 {{< tdopen >}}
-[Sample Correspondence]({{< baseurl >}}/pages/reading-responses/november)
+{{% resource_link aa152035-7b70-e793-c276-5f01114c13a3 "Sample Correspondence" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +99,7 @@ November
 December
 {{< tdclose >}}
 {{< tdopen >}}
-[Sample Correspondence]({{< baseurl >}}/pages/reading-responses/december)
+{{% resource_link 05c5b320-a3a6-ddc6-f077-703b8e112473 "Sample Correspondence" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

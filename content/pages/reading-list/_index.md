@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, the instructor discusses the reading list for the course
+  and explains how it creates a narrative arc for understanding algebraic topology.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Reading List
@@ -15,9 +17,9 @@ The exact set and sequence of papers read in the Kan seminar varies from one yea
 
 Then K-theory comes along (from Atiyah's book). (Sometimes we do a proof of Bott periodicity, but this is often part of a course in global analysis so I don't mind omitting it.) We can then do Adams's and Atiyah's proof of Hopf invariant one, and (if there's an ambitious student) Adams's resolution of the vector field problem.
 
-![Handwritten list of research papers in the field of algebraic topology.]({{< resource_file f790817d-ad7e-f5e7-6656-a611093171a0 >}})
+{{< resource f790817d-ad7e-f5e7-6656-a611093171a0 >}}
 
-A portion of the original reading list (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit18_915f14_kan-list_2)), in Dan Kan's handwriting. (Image courtesy of Michael Kan.)
+A portion of the original reading list ({{% resource_link bdc05947-56be-6531-a494-eb00f5375d8f "PDF" %}}), in Dan Kan's handwriting. (Image courtesy of Michael Kan.)
 
 Quillen's work on equivariant cohomology is up next. Wall's finiteness obstruction paper is very difficult for students, and may be inadvisable.
 

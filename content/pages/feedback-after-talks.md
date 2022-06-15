@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, the instructor shares the kind of feedback he provides
+  students during their post-talk debriefing sessions.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Feedback after Talks
@@ -8,7 +10,7 @@ uid: 899f2197-c7ea-c802-0575-c9260bd4088f
 
 _In this section, Professor Haynes Miller shares the kind of feedback he provides students during their post-talk debriefing sessions._
 
-![A male student writing on a blackboard with chalk.]({{< resource_file 5e8f166f-18ea-3011-e164-a8d13ee87378 >}})
+{{< resource 5e8f166f-18ea-3011-e164-a8d13ee87378 >}}
 
 Lyubo Panchev, a graduate student, gives a lecture in the 2014 offering of the Kan Seminar. (Photo courtesy of MIT OpenCourseWare.)
 

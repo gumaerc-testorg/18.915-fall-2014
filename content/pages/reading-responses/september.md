@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, the instructor and student share their reading response
+  correspondence for September.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Reading Responses
@@ -11,7 +13,7 @@ uid: f099e4bc-dad3-1d7f-c8c6-e204a63f8de1
 
 ### 4 Sep
 
-_Response to:_ [_Steenrod Operations (PDF - 1.7MB)_]({{< baseurl >}}/resources/mit18_915f14_steenrod)
+_Response to:_ {{% resource_link e7fadd2e-74e9-906c-812c-22b196f54bf6 "_Steenrod Operations (PDF - 1.7MB)_" %}}
 
 Dear Professor Miller,
 
