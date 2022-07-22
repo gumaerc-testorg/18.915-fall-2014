@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: In this section, the instructor and student share their reading response
+  correspondence for October.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Reading Responses
+parent_type: CourseSection
 parent_uid: 674cd4bf-8f3b-2929-b29c-0e8c85131638
 title: October
 uid: d0479656-3929-d8a6-3926-9c8f2cfc2dc2

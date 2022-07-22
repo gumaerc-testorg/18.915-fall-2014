@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: In this section, the instructor shares the seminal papers featured during
+  math talks, and the order in which students presented them.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Math Talks
 uid: ef5131cf-b17c-8b4d-229a-f8c08f7b000d
 ---
@@ -44,7 +48,7 @@ Organization
 Instructor
 {{< tdclose >}}
 {{< tdopen >}}
-[Steenrod Operations (PDF - 1.7MB)]({{< baseurl >}}/resources/mit18_915f14_steenrod)
+{{% resource_link e7fadd2e-74e9-906c-812c-22b196f54bf6 "Steenrod Operations (PDF - 1.7MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

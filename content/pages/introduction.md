@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides a brief introduction to the course, including background
+  information, learning objectives, and an introduction to the course site.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Introduction
 uid: c25f4b55-e75d-e013-5f68-2df03191c17b
 ---
@@ -9,7 +13,7 @@ Course Introduction
 
 First-year graduate students in algebraic topology learn about homology, cohomology, and duality in their first semester, and basic homotopy theory, fibrations, classifying spaces, and characteristic classes during their second semester. But once students have learned this material, it can be challenging for instructors to convey to students something about the enormous amount of original research which builds on this basic curriculum. One strategy is to offer topics courses that address different aspects of the field's development, but this approach is often somewhat fragmented. The Kan seminar, named after the late MIT professor, Daniel Kan, is an attempt to introduce students to the broad history of the subject.
 
-![Two women and two men sitting in chairs at a table; they look toward a speaker at the front of the room.]({{< resource_file cbb55e23-b699-0575-ca0d-a647414815fb >}})
+{{< resource cbb55e23-b699-0575-ca0d-a647414815fb >}}
 
 Students listen as their colleague present a lecture on rational homotopy. (Photo courtesy of MIT OpenCourseWare.)
 

@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: In this section, the instructor and student share their reading response
+  correspondence for December.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Reading Responses
+parent_type: CourseSection
 parent_uid: 674cd4bf-8f3b-2929-b29c-0e8c85131638
 title: December
 uid: 05c5b320-a3a6-ddc6-f077-703b8e112473

@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: In this section, Haynes Miller shares papers from the reading list and
+  discusses where educators may find them online.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Reading List
+parent_type: CourseSection
 parent_uid: 81414d90-455e-4895-8c60-4619d3435206
 title: List of Possible Papers
 uid: a3a6421f-1de8-eb50-65ee-09b6c562348f

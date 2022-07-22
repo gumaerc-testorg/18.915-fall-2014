@@ -1,12 +1,16 @@
 ---
 content_type: page
+description: In this section, the instructor describes the enrollment and structure
+  of the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Logistics '
 uid: 9d92aa27-87e4-b9bb-4548-23a87d5108cd
 ---
 
 _In this section, Professor Haynes Miller describes the enrollment and structure of the course._
 
-![Mathematical notation written in chalk on a blackboard.]({{< resource_file 02a36811-69e1-463d-96ae-a47a480fbf11 >}})
+{{< resource 02a36811-69e1-463d-96ae-a47a480fbf11 >}}
 
 Notes from Lyubov Panchev's lecture during the 2014 offering of the Kan Seminar. (Photo courtesy of MIT OpenCourseWare.)
 

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: "In this section, the instructor shares elements of Daniel Kan\u2019\
+  s life and his approach to teaching."
+learning_resource_types: []
+ocw_type: CourseSection
 title: Life & Teaching of Daniel Kan
 uid: e410ee8b-8700-9b71-186a-43313ae400a9
 ---
@@ -8,7 +12,7 @@ _In this section, Professor Haynes Miller shares elements of Daniel Kan's life a
 
 Daniel Kan grew up in Amsterdam. When World War II unfolded, he and his entire family were interned and spent most of the war in Bergen-Belsen concentration camp. Although he and his parents survived internment, Kan was orphaned when his parents died of dysentery during the liberation.
 
-![Daniel Kan wearing a red shirt and glasses.]({{< resource_file f6c8390a-6e8a-b22c-46dd-11186860ecbe >}})
+{{< resource f6c8390a-6e8a-b22c-46dd-11186860ecbe >}}
 
 Daniel Kan (Photo courtesy of Jonah Kan.)
 

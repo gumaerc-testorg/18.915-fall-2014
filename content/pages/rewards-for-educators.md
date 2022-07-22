@@ -1,12 +1,15 @@
 ---
 content_type: page
+description: In this section, the instructor describes some of the rewards for educators
+  associated with teaching a Kan Seminar.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Rewards for Educators
 uid: 52b3c476-57a9-e63d-97e9-01bd861cf4f3
 ---
+_In this section, Professor Haynes Miller describes some of the rewards for educators associated with teaching a Kan Seminar._
 
-_In this section, Professor Haynes describes some of the rewards for educators associated with teaching a Kan Seminar._
-
-![Three students sitting at a table; female student looks toward speaker at front of room; male student leans forward, holds pen, and looks toward speaker; another male student looks down at paper.]({{< resource_file 4d008006-bbb0-e4e4-164f-e5203d84f7c5 >}})
+{{< resource 4d008006-bbb0-e4e4-164f-e5203d84f7c5 >}}
 
 Students listen as their colleague presents a lecture on rational homotopy. (Photo courtesy of MIT OpenCourseWare.)
 
