@@ -11,6 +11,7 @@ image_metadata:
     at front of room; male student leans forward, holds pen, and looks toward speaker;
     another male student looks down at paper.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Rewards for Educators
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: 18.915-Rewards_Photo.jpg
 uid: 4d008006-bbb0-e4e4-164f-e5203d84f7c5
 ---
 Students listen as their colleague presents a lecture on rational homotopy. Photo courtesy of MIT OpenCourseWare.
-

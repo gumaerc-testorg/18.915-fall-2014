@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Photo credit: Jonah Kan.'
   image-alt: Daniel Kan wearing a red shirt and glasses.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Life & Teaching of Daniel Kan
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 18.915-Kan_Photo.jpg
 uid: f6c8390a-6e8a-b22c-46dd-11186860ecbe
 ---
 Daniel Kan. Photo credit: Jonah Kan.
-

@@ -9,6 +9,7 @@ image_metadata:
   credit: Image courtesy of Michael Kan.
   image-alt: Handwritten list of research papers in the field of algebraic topology.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Reading List
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: 18-915-kan-list.jpg
 uid: f790817d-ad7e-f5e7-6656-a611093171a0
 ---
 A portion of the original reading list (PDF), in Dan Kan’s handwriting. Image courtesy of Michael Kan.
-

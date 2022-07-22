@@ -10,6 +10,7 @@ image_metadata:
   image-alt: Two women and two men sitting in chairs at a table; they look toward
     a speaker at the front of the room.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Introduction
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: 18.915-Intro_Photo.jpg
 uid: d66826ab-a1ab-b3f8-8f4f-c1320453d314
 ---
 Students listen as their colleague presents a lecture on rational homotopy. Photo courtesy of MIT OpenCourseWare.
-

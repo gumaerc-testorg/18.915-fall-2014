@@ -10,6 +10,7 @@ image_metadata:
   credit: Photo courtesy of MIT OpenCourseWare.
   image-alt: Mathematical notation written in chalk on a blackboard.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Logistics '
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: 18.915-Logistics_Photo.jpg
 uid: 02a36811-69e1-463d-96ae-a47a480fbf11
 ---
 Notes from a Lyubov Panchev's lecture during the 2014 offering of the Kan Seminar. Photo courtesy of MIT OpenCourseWare.
-
