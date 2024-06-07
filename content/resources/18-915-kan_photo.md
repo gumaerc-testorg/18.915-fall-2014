@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Daniel Kan. Photo credit: Jonah Kan.'
 file: /courses/18-915-graduate-topology-seminar-kan-seminar-fall-2014/f6c8390a6e8ab22c46dd11186860ecbe_18.915-Kan_Photo.jpg
+file_size: 20838
 file_type: image/jpeg
 image_metadata:
   caption: Daniel Kan.
