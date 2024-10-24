@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Kan Reading List.
-file: /courses/18-915-graduate-topology-seminar-kan-seminar-fall-2014/bdc0594756be6531a494eb00f5375d8f_MIT18_915F14_kan-list_2.pdf
+file: /ol-ocw-studio-app/courses/18-915-graduate-topology-seminar-kan-seminar-fall-2014/bdc0594756be6531a494eb00f5375d8f_MIT18_915F14_kan-list_2.pdf
 file_size: 272610
 file_type: application/pdf
 learning_resource_types: []
