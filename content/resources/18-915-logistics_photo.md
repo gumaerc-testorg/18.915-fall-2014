@@ -2,7 +2,7 @@
 content_type: resource
 description: Notes from a Lyubov Panchev's lecture during the 2014 offering of the
   Kan Seminar. Photo courtesy of MIT OpenCourseWare.
-file: /courses/18-915-graduate-topology-seminar-kan-seminar-fall-2014/02a3681169e1463d96aea47a480fbf11_18.915-Logistics_Photo.jpg
+file: /ol-ocw-studio-app/courses/18-915-graduate-topology-seminar-kan-seminar-fall-2014/02a3681169e1463d96aea47a480fbf11_18.915-Logistics_Photo.jpg
 file_size: 43626
 file_type: image/jpeg
 image_metadata:
