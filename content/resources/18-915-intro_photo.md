@@ -2,7 +2,7 @@
 content_type: resource
 description: Students listen as their colleague presents a lecture on rational homotopy.
   Photo courtesy of MIT OpenCourseWare.
-file: /ol-ocw-studio-app/courses/18-915-graduate-topology-seminar-kan-seminar-fall-2014/d66826aba1abb3f88f4fc1320453d314_18.915-Intro_Photo.jpg
+file: /courses/18-915-graduate-topology-seminar-kan-seminar-fall-2014/d66826aba1abb3f88f4fc1320453d314_18.915-Intro_Photo.jpg
 file_size: 76498
 file_type: image/jpeg
 image_metadata:
