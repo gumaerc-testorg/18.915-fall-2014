@@ -23,6 +23,7 @@
   },
   "course_title": "Graduate Topology Seminar: Kan Seminar",
   "hide_download": false,
+  "mit_learn_topics": [],
   "course_description": "This is a literature seminar with a focus on classic papers in Algebraic Topology. It is named after the late MIT professor [Daniel Kan](http://math.mit.edu/about/history/obituaries/kan.php). Each student gives one or two talks on each of three papers, chosen in consultation with the instructor, reads all the papers presented by other students, and writes reactions to the papers. This course is useful not only to students pursuing algebraic topology as a field of study, but also to those interested in symplectic geometry, representation theory, and combinatorics.\n",
   "department_numbers": [
     "18"
@@ -36,9 +37,11 @@
   "learning_resource_types": [
     "Presentation Assignments",
     "Written Assignments with Examples",
-    "Instructor Insights"
+    "Instructor Insights",
+    "Podcasts"
   ],
   "site_uid": "856468b8-30e6-4519-9980-a869fbccd4da",
   "site_short_id": "18.915-fall-2014",
+  "site_url_path": "courses/18-915-graduate-topology-seminar-kan-seminar-fall-2014",
   "title": "Course Metadata"
 }
