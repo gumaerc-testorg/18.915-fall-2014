@@ -19,12 +19,12 @@ Students listen as their colleague present a lecture on rational homotopy. (Phot
 
 The first Kan seminar was held in the fall of 1969, and it has run nearly every fall since then. The charter class included:
 
-*   {{% resource_link "261c09e1-b8ab-4132-9c44-acbb9f699ac9" "W. Stephen Wilson" %}} (Department of Mathematics and the School of Education, Johns Hopkins University)
-*   {{% resource_link "9cb7e6d1-fa71-4d67-81fa-885cb47b9af4" "Dan Burns" %}} (Department of Computational Medicine and Bioinformatics, University of Michigan Medical School)
-*   {{% resource_link "12a50347-7a06-4466-b627-55198ff24e9f" "Bruce Williams" %}} (Department of Mathematics, University of Notre Dame)
-*   {{% resource_link "b6b53d6f-3bb5-4a2f-a916-dd4f0a817651" "Tadatoshi Akiba" %}} (Mayor of Hiroshima from 1999 to 2010)
-*   {{% resource_link "c1d9a278-3def-4e15-8e3c-a30ed3aaaa5b" "Hans Anton Salomonsen" %}} (Department of Mathematics, Aarhus University)
-*   {{% resource_link "7e91e008-b964-4a80-885c-a1a36ac0ae7d" "Ken Brown" %}} (Department of Mathematics, Cornell University)
+*   [W. Stephen Wilson](http://www.math.jhu.edu/~wsw/) (Department of Mathematics and the School of Education, Johns Hopkins University)
+*   [Dan Burns](http://www.ccmb.med.umich.edu/node/60) (Department of Computational Medicine and Bioinformatics, University of Michigan Medical School)
+*   [Bruce Williams](https://math.nd.edu/news/bruce-williams/) (Department of Mathematics, University of Notre Dame)
+*   [Tadatoshi Akiba](http://www.worldmayor.com/finalists2004/hiroshima.html) (Mayor of Hiroshima from 1999 to 2010)
+*   [Hans Anton Salomonsen](http://pure.au.dk/portal/en/persons/hans-anton-salomonsen%28ce23516d-35e3-4cd7-91ce-9a025e6a406f%29.html) (Department of Mathematics, Aarhus University)
+*   [Ken Brown](http://www.math.cornell.edu/~kbrown) (Department of Mathematics, Cornell University)
 
 Learning Objectives
 -------------------
