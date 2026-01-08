@@ -21,7 +21,7 @@ Prerequisites
 Description
 -----------
 
-The Kan seminar—named after the late MIT professor {{% resource_link "4c6d84a1-0a4b-4ff7-9a6d-474a27ad10e9" "Daniel Kan" %}}—focuses on classic papers in algebraic topology. Each student gives one or two talks on each of three papers, chosen in consultation with the instructor, reads all the papers presented by other students, and writes reactions to the papers. This course is useful not only to students pursuing algebraic topology as a field of study, but also to those interested in symplectic geometry, representation theory, and combinatorics.
+The Kan seminar—named after the late MIT professor [Daniel Kan](http://math.mit.edu/about/history/obituaries/kan.php)—focuses on classic papers in algebraic topology. Each student gives one or two talks on each of three papers, chosen in consultation with the instructor, reads all the papers presented by other students, and writes reactions to the papers. This course is useful not only to students pursuing algebraic topology as a field of study, but also to those interested in symplectic geometry, representation theory, and combinatorics.
 
 Calendar
 --------
